@@ -1,0 +1,57 @@
+body {
+    background-color: #111;
+    color: #eee;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: #FF4500;
+}
+
+.pagina h1{
+    text-align: top;
+}
+.pagina {
+    /* Alinhamento central */
+    display: flex;
+    flex-direction: column;     /* Alinha os filhos em coluna */
+    align-items: center;        /* Alinha horizontalmente */
+    
+    height: 100vh;              /* Ocupa a altura total da tela */
+    margin: 0;                  /* Remove espaçamento padrão */
+    text-align: center;         /* Centraliza o texto */
+    list-style: none;      /* tira as bolinhas da lista*/
+}
+
+.pagina ul {
+    list-style: none;       /* correto */
+    padding: 0;             /* remove o recuo padrão */
+    margin: 0;              /* opcional: remove margem */
+}
+
+.banda {
+    margin: 30px auto;
+    max-width: 600px;
+    text-align: center;
+    border-bottom: 1px solid #444;
+    padding-bottom: 20px;
+}
+
+.banda img {
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.disco {
+    margin: 30px auto;
+    max-width: 700px;
+    text-align: center;
+    border-bottom: 1px solid #444;
+    padding-bottom: 20px;
+}
+
+.disco img {
+    margin: 10px;
+    border-radius: 10px;
+}
+
