@@ -25,7 +25,7 @@ Este projeto foi desenvolvido com o objetivo de **fixar e praticar os conceitos 
 ## Layout e Estilo
 - Design responsivo com fundo escuro e contraste para boa leitura.
 - Estética voltada para o universo do rock, com foco em legibilidade e experiência do usuário.
-
+- Acesse em: https://helendellaroveri.github.io/Projeto-SPA-com-Pagina-o-em-AJAX/home.html
 ---
 
 ## 🇺🇸 Rock Bands - SPA with AJAX Pagination
@@ -57,3 +57,4 @@ This project was developed with the purpose of **reinforcing and practicing SPA 
 
 - Responsive design with dark background and strong contrast for readability.
 - Visual style inspired by rock culture, with a focus on legibility and user experience.
+- Visit at: https://helendellaroveri.github.io/Projeto-SPA-com-Pagina-o-em-AJAX/home.html
